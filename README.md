@@ -4,4 +4,4 @@
 
 微博的反爬很厉害,模拟登录需要分析模拟浏览器的请求过程,PhantomJs不可行,似乎被ban掉了
 
-https://github.com/fightingspider/weibo-V-focus_analysis/raw/master/screen_img/V_focus_network.png
+![img_text](https://github.com/fightingspider/weibo-V-focus_analysis/raw/master/screen_img/V_focus_network.png)
